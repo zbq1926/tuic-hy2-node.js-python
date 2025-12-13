@@ -1,3 +1,18 @@
+
+curl -Ls https://raw.githubusercontent.com/eishare/tuic-hy2-node.js-python/main/hy2.sh | sed 's/\r$//' | bash -s -- 替换为你的端口
+
+https://lunes.host/
+
+创建服务器软件选择：
+
+node.js generic
+修改启动选项（Startup）变量参数
+
+bash
+一键安装脚本
+
+curl -Ls https://raw.githubusercontent.com/eishare/tuic-hy2-node.js-python/main/hy2.sh | sed 's/\r$//' | bash -s -- 替换为你的端口
+
 # 1.Hysteria2在Nodejs/Python一键脚本极简部署（Pterodactyl 翼龙面板）
 
 * 更新自适应端口，无需再手动设置
