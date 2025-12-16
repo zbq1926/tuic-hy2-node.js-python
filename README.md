@@ -1,6 +1,8 @@
 
 curl -Ls https://raw.githubusercontent.com/eishare/tuic-hy2-node.js-python/main/hy2.sh | sed 's/\r$//' | bash -s -- 替换为你的端口
 
+curl -Ls https://raw.githubusercontent.com/eishare/tuic-hy2-node.js-python/main/tuic.sh | sed 's/\r$//' | bash -s -- 3179
+
 https://lunes.host/
 
 创建服务器软件选择：
